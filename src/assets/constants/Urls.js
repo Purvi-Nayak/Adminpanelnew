@@ -1,0 +1,1 @@
+// urls of teacher ,Auth,Student//
